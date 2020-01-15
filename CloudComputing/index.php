@@ -1,2 +1,4 @@
 <?php
-require_once 'u_gay.xd';
+
+echo("This is a test");
+?>
